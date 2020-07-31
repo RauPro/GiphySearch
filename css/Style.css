@@ -15,10 +15,19 @@ body {
     margin: 0 auto;
     padding-top: 50px;
 }
+.js-container{
+    padding-top: 10px;
+}
 .container-textinput{
     width: 80%;
     display: inline-block;
 	padding: 20px;
 	font-size: 16px;
 	font-family: Helvetica, sans-serif;
+}
+.container-image {
+	width: 30%;
+	display: block;
+	float: left;
+	margin-right:3%;
 }
